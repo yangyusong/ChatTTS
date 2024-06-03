@@ -1,6 +1,6 @@
 # ChatTTS
 
-只是简单使用的话，看上面这段就够了，windows下可用，不用科学上网
+只是简单使用的话，看上面这段使用流程就够了，windows下可用，不用科学上网
 -----------------------
 使用流程
 
@@ -9,6 +9,7 @@ git clone https://github.com/yangyusong/ChatTTS.git
 pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 pip install modelscope -i https://pypi.tuna.tsinghua.edu.cn/simple
+
 pip install gradio -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 python app.py
